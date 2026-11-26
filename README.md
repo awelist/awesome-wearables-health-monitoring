@@ -72,6 +72,7 @@ Tools and devices focused on sleep quality, recovery, and overall wellness.
 
 Open datasets, tools, and research initiatives related to wearable health technologies.
 
+- [AIHardwareDB Open Dataset](https://aihardwaredb.com/data/) — CC BY 4.0 specification, biometric export, and 24-month total cost dataset auditing 34 consumer AI wearables (including smart rings such as Oura Ring 4, RingConn Gen 2, Ultrahuman Ring AIR, and Samsung Galaxy Ring).
 - [Open mHealth](https://www.openmhealth.org/) — Open-source framework for integrating digital health data.
 - [PhysioNet](https://physionet.org/) — Repository of physiological data and open research tools.
 - [mHealth Toolbox](https://mhealth.jmir.org/) — Research-focused tools and resources for mobile health applications.
